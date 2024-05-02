@@ -1,0 +1,60 @@
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Host\obj\Release\Host.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Host\obj\Release\Host.csproj.SuggestedBindingRedirects.cache
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Host\obj\Release\Host.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Host\bin\Release\Host.exe.config
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Host\bin\Release\Host.exe
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Host\bin\Release\Host.pdb
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Host\bin\Release\Server.dll
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Host\bin\Release\Model.dll
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Host\bin\Release\ViewModel.dll
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Host\bin\Release\Server.pdb
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Host\bin\Release\Model.pdb
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Host\bin\Release\ViewModel.pdb
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Host\obj\Release\Host.csproj.CopyComplete
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Host\obj\Release\Host.exe
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Host\obj\Release\Host.pdb
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Host\bin\Release\Host.exe.config
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Host\bin\Release\Host.exe
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Host\bin\Release\Host.pdb
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Host\bin\Release\Server.dll
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Host\bin\Release\Model.dll
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Host\bin\Release\ViewModel.dll
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Host\bin\Release\Server.pdb
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Host\bin\Release\Model.pdb
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Host\bin\Release\ViewModel.pdb
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Host\obj\Release\Host.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Host\obj\Release\Host.csproj.SuggestedBindingRedirects.cache
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Host\obj\Release\Host.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Host\obj\Release\Host.csproj.CopyComplete
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Host\obj\Release\Host.exe
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Host\obj\Release\Host.pdb
+C:\Users\The user\Desktop\להגשה\Server\Host\bin\Release\Host.exe.config
+C:\Users\The user\Desktop\להגשה\Server\Host\bin\Release\Host.exe
+C:\Users\The user\Desktop\להגשה\Server\Host\bin\Release\Host.pdb
+C:\Users\The user\Desktop\להגשה\Server\Host\bin\Release\Server.dll
+C:\Users\The user\Desktop\להגשה\Server\Host\bin\Release\Model.dll
+C:\Users\The user\Desktop\להגשה\Server\Host\bin\Release\ViewModel.dll
+C:\Users\The user\Desktop\להגשה\Server\Host\bin\Release\Server.pdb
+C:\Users\The user\Desktop\להגשה\Server\Host\bin\Release\Model.pdb
+C:\Users\The user\Desktop\להגשה\Server\Host\bin\Release\ViewModel.pdb
+C:\Users\The user\Desktop\להגשה\Server\Host\obj\Release\Host.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\להגשה\Server\Host\obj\Release\Host.csproj.SuggestedBindingRedirects.cache
+C:\Users\The user\Desktop\להגשה\Server\Host\obj\Release\Host.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\להגשה\Server\Host\obj\Release\Host.csproj.CopyComplete
+C:\Users\The user\Desktop\להגשה\Server\Host\obj\Release\Host.exe
+C:\Users\The user\Desktop\להגשה\Server\Host\obj\Release\Host.pdb
+C:\Users\The user\Desktop\לימודים\תיכון\פרוייקטי C#\‏‏להגשה - עותק\Server\Host\bin\Release\Host.exe.config
+C:\Users\The user\Desktop\לימודים\תיכון\פרוייקטי C#\‏‏להגשה - עותק\Server\Host\bin\Release\Host.exe
+C:\Users\The user\Desktop\לימודים\תיכון\פרוייקטי C#\‏‏להגשה - עותק\Server\Host\bin\Release\Host.pdb
+C:\Users\The user\Desktop\לימודים\תיכון\פרוייקטי C#\‏‏להגשה - עותק\Server\Host\bin\Release\Server.dll
+C:\Users\The user\Desktop\לימודים\תיכון\פרוייקטי C#\‏‏להגשה - עותק\Server\Host\bin\Release\Model.dll
+C:\Users\The user\Desktop\לימודים\תיכון\פרוייקטי C#\‏‏להגשה - עותק\Server\Host\bin\Release\ViewModel.dll
+C:\Users\The user\Desktop\לימודים\תיכון\פרוייקטי C#\‏‏להגשה - עותק\Server\Host\bin\Release\Server.pdb
+C:\Users\The user\Desktop\לימודים\תיכון\פרוייקטי C#\‏‏להגשה - עותק\Server\Host\bin\Release\Model.pdb
+C:\Users\The user\Desktop\לימודים\תיכון\פרוייקטי C#\‏‏להגשה - עותק\Server\Host\bin\Release\ViewModel.pdb
+C:\Users\The user\Desktop\לימודים\תיכון\פרוייקטי C#\‏‏להגשה - עותק\Server\Host\obj\Release\Host.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\לימודים\תיכון\פרוייקטי C#\‏‏להגשה - עותק\Server\Host\obj\Release\Host.csproj.SuggestedBindingRedirects.cache
+C:\Users\The user\Desktop\לימודים\תיכון\פרוייקטי C#\‏‏להגשה - עותק\Server\Host\obj\Release\Host.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\לימודים\תיכון\פרוייקטי C#\‏‏להגשה - עותק\Server\Host\obj\Release\Host.csproj.CopyComplete
+C:\Users\The user\Desktop\לימודים\תיכון\פרוייקטי C#\‏‏להגשה - עותק\Server\Host\obj\Release\Host.exe
+C:\Users\The user\Desktop\לימודים\תיכון\פרוייקטי C#\‏‏להגשה - עותק\Server\Host\obj\Release\Host.pdb

@@ -1,0 +1,37 @@
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Server\obj\Release\Server.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Server\obj\Release\Server.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Server\bin\Release\Server.dll
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Server\bin\Release\Server.pdb
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Server\bin\Release\Model.dll
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Server\bin\Release\ViewModel.dll
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Server\bin\Release\Model.pdb
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Server\bin\Release\ViewModel.pdb
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Server\obj\Release\Server.csproj.CopyComplete
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Server\obj\Release\Server.dll
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Server\obj\Release\Server.pdb
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Server\bin\Release\Server.dll
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Server\bin\Release\Server.pdb
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Server\bin\Release\Model.dll
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Server\bin\Release\ViewModel.dll
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Server\bin\Release\Model.pdb
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Server\bin\Release\ViewModel.pdb
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Server\obj\Release\Server.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Server\obj\Release\Server.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Server\obj\Release\Server.csproj.CopyComplete
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Server\obj\Release\Server.dll
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Server\obj\Release\Server.pdb
+C:\Users\The user\Desktop\להגשה\Server\Server\obj\Release\Server.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\להגשה\Server\Server\obj\Release\Server.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\להגשה\Server\Server\obj\Release\Server.dll
+C:\Users\The user\Desktop\להגשה\Server\Server\obj\Release\Server.pdb
+C:\Users\The user\Desktop\לימודים\תיכון\פרוייקטי C#\‏‏להגשה - עותק\Server\Server\obj\Release\Server.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\לימודים\תיכון\פרוייקטי C#\‏‏להגשה - עותק\Server\Server\obj\Release\Server.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\לימודים\תיכון\פרוייקטי C#\‏‏להגשה - עותק\Server\Server\bin\Release\Server.dll
+C:\Users\The user\Desktop\לימודים\תיכון\פרוייקטי C#\‏‏להגשה - עותק\Server\Server\bin\Release\Server.pdb
+C:\Users\The user\Desktop\לימודים\תיכון\פרוייקטי C#\‏‏להגשה - עותק\Server\Server\bin\Release\Model.dll
+C:\Users\The user\Desktop\לימודים\תיכון\פרוייקטי C#\‏‏להגשה - עותק\Server\Server\bin\Release\ViewModel.dll
+C:\Users\The user\Desktop\לימודים\תיכון\פרוייקטי C#\‏‏להגשה - עותק\Server\Server\bin\Release\Model.pdb
+C:\Users\The user\Desktop\לימודים\תיכון\פרוייקטי C#\‏‏להגשה - עותק\Server\Server\bin\Release\ViewModel.pdb
+C:\Users\The user\Desktop\לימודים\תיכון\פרוייקטי C#\‏‏להגשה - עותק\Server\Server\obj\Release\Server.csproj.CopyComplete
+C:\Users\The user\Desktop\לימודים\תיכון\פרוייקטי C#\‏‏להגשה - עותק\Server\Server\obj\Release\Server.dll
+C:\Users\The user\Desktop\לימודים\תיכון\פרוייקטי C#\‏‏להגשה - עותק\Server\Server\obj\Release\Server.pdb

@@ -1,0 +1,26 @@
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Server\bin\Debug\Server.dll
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Server\bin\Debug\Server.pdb
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Server\bin\Debug\Model.dll
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Server\bin\Debug\ViewModel.dll
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Server\bin\Debug\Model.pdb
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Server\bin\Debug\ViewModel.pdb
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Server\obj\Debug\Server.dll
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Server\obj\Debug\Server.pdb
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Server\obj\Debug\Server.dll
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Server\obj\Debug\Server.pdb
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Server\bin\Debug\Model.dll
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Server\bin\Debug\ViewModel.dll
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Server\bin\Debug\Model.pdb
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Server\bin\Debug\ViewModel.pdb
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Server\bin\Debug\Server.dll
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Server\bin\Debug\Server.pdb
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\The user\Desktop\להגשה\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\להגשה\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\להגשה\Server\Server\obj\Debug\Server.dll
+C:\Users\The user\Desktop\להגשה\Server\Server\obj\Debug\Server.pdb

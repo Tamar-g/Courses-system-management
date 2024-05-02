@@ -1,0 +1,190 @@
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר גרטנר\פרוייקט שרת לקוח\Server\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר גרטנר\פרוייקט שרת לקוח\Server\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר גרטנר\פרוייקט שרת לקוח\Server\Host\bin\Debug\Host.exe.config
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר גרטנר\פרוייקט שרת לקוח\Server\Host\bin\Debug\Host.exe
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר גרטנר\פרוייקט שרת לקוח\Server\Host\bin\Debug\Host.pdb
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר גרטנר\פרוייקט שרת לקוח\Server\Host\obj\Debug\Host.exe
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר גרטנר\פרוייקט שרת לקוח\Server\Host\obj\Debug\Host.pdb
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר גרטנר\פרוייקט שרת לקוח\Server\Host\bin\Debug\Server.dll
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר גרטנר\פרוייקט שרת לקוח\Server\Host\bin\Debug\Model.dll
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר גרטנר\פרוייקט שרת לקוח\Server\Host\bin\Debug\ViewModel.dll
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר גרטנר\פרוייקט שרת לקוח\Server\Host\bin\Debug\Server.pdb
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר גרטנר\פרוייקט שרת לקוח\Server\Host\bin\Debug\Model.pdb
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר גרטנר\פרוייקט שרת לקוח\Server\Host\bin\Debug\ViewModel.pdb
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר גרטנר\פרוייקט שרת לקוח\Server\Host\obj\Debug\Host.csproj.CopyComplete
+D:\פרוייקטים ישנים\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\Host.exe.config
+D:\פרוייקטים ישנים\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\Host.exe
+D:\פרוייקטים ישנים\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\Host.pdb
+D:\פרוייקטים ישנים\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\Server.dll
+D:\פרוייקטים ישנים\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\Model.dll
+D:\פרוייקטים ישנים\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\ViewModel.dll
+D:\פרוייקטים ישנים\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\Server.pdb
+D:\פרוייקטים ישנים\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\Model.pdb
+D:\פרוייקטים ישנים\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\ViewModel.pdb
+D:\פרוייקטים ישנים\‏‏פרוייקט שרת לקוח - עותק\Server\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+D:\פרוייקטים ישנים\‏‏פרוייקט שרת לקוח - עותק\Server\Host\obj\Debug\Host.csproj.SuggestedBindingRedirects.cache
+D:\פרוייקטים ישנים\‏‏פרוייקט שרת לקוח - עותק\Server\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+D:\פרוייקטים ישנים\‏‏פרוייקט שרת לקוח - עותק\Server\Host\obj\Debug\Host.csproj.CopyComplete
+D:\פרוייקטים ישנים\‏‏פרוייקט שרת לקוח - עותק\Server\Host\obj\Debug\Host.exe
+D:\פרוייקטים ישנים\‏‏פרוייקט שרת לקוח - עותק\Server\Host\obj\Debug\Host.pdb
+C:\Users\The user\Desktop\החדש חדש\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\Host.exe.config
+C:\Users\The user\Desktop\החדש חדש\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\Host.exe
+C:\Users\The user\Desktop\החדש חדש\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\Host.pdb
+C:\Users\The user\Desktop\החדש חדש\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\Server.dll
+C:\Users\The user\Desktop\החדש חדש\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\Model.dll
+C:\Users\The user\Desktop\החדש חדש\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\ViewModel.dll
+C:\Users\The user\Desktop\החדש חדש\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\Server.pdb
+C:\Users\The user\Desktop\החדש חדש\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\Model.pdb
+C:\Users\The user\Desktop\החדש חדש\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\ViewModel.pdb
+C:\Users\The user\Desktop\החדש חדש\‏‏פרוייקט שרת לקוח - עותק\Server\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\החדש חדש\‏‏פרוייקט שרת לקוח - עותק\Server\Host\obj\Debug\Host.csproj.SuggestedBindingRedirects.cache
+C:\Users\The user\Desktop\החדש חדש\‏‏פרוייקט שרת לקוח - עותק\Server\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\החדש חדש\‏‏פרוייקט שרת לקוח - עותק\Server\Host\obj\Debug\Host.csproj.CopyComplete
+C:\Users\The user\Desktop\החדש חדש\‏‏פרוייקט שרת לקוח - עותק\Server\Host\obj\Debug\Host.exe
+C:\Users\The user\Desktop\החדש חדש\‏‏פרוייקט שרת לקוח - עותק\Server\Host\obj\Debug\Host.pdb
+\\HANAFS\Users\Tichnut\תכנות שנה א תשפג\תלמידות\תמר גרטנר\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\Host.exe.config
+\\HANAFS\Users\Tichnut\תכנות שנה א תשפג\תלמידות\תמר גרטנר\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\Host.exe
+\\HANAFS\Users\Tichnut\תכנות שנה א תשפג\תלמידות\תמר גרטנר\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\Host.pdb
+\\HANAFS\Users\Tichnut\תכנות שנה א תשפג\תלמידות\תמר גרטנר\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\Server.dll
+\\HANAFS\Users\Tichnut\תכנות שנה א תשפג\תלמידות\תמר גרטנר\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\Model.dll
+\\HANAFS\Users\Tichnut\תכנות שנה א תשפג\תלמידות\תמר גרטנר\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\ViewModel.dll
+\\HANAFS\Users\Tichnut\תכנות שנה א תשפג\תלמידות\תמר גרטנר\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\Server.pdb
+\\HANAFS\Users\Tichnut\תכנות שנה א תשפג\תלמידות\תמר גרטנר\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\Model.pdb
+\\HANAFS\Users\Tichnut\תכנות שנה א תשפג\תלמידות\תמר גרטנר\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\ViewModel.pdb
+\\HANAFS\Users\Tichnut\תכנות שנה א תשפג\תלמידות\תמר גרטנר\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+\\HANAFS\Users\Tichnut\תכנות שנה א תשפג\תלמידות\תמר גרטנר\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\obj\Debug\Host.csproj.SuggestedBindingRedirects.cache
+\\HANAFS\Users\Tichnut\תכנות שנה א תשפג\תלמידות\תמר גרטנר\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+\\HANAFS\Users\Tichnut\תכנות שנה א תשפג\תלמידות\תמר גרטנר\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\obj\Debug\Host.csproj.CopyComplete
+\\HANAFS\Users\Tichnut\תכנות שנה א תשפג\תלמידות\תמר גרטנר\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\obj\Debug\Host.exe
+\\HANAFS\Users\Tichnut\תכנות שנה א תשפג\תלמידות\תמר גרטנר\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\obj\Debug\Host.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר גרטנר\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\Host.exe.config
+H:\תכנות שנה א תשפג\תלמידות\תמר גרטנר\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\Host.exe
+H:\תכנות שנה א תשפג\תלמידות\תמר גרטנר\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\Host.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר גרטנר\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\Server.dll
+H:\תכנות שנה א תשפג\תלמידות\תמר גרטנר\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\Model.dll
+H:\תכנות שנה א תשפג\תלמידות\תמר גרטנר\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\ViewModel.dll
+H:\תכנות שנה א תשפג\תלמידות\תמר גרטנר\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\Server.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר גרטנר\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\Model.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר גרטנר\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\ViewModel.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר גרטנר\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+H:\תכנות שנה א תשפג\תלמידות\תמר גרטנר\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\obj\Debug\Host.csproj.SuggestedBindingRedirects.cache
+H:\תכנות שנה א תשפג\תלמידות\תמר גרטנר\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+H:\תכנות שנה א תשפג\תלמידות\תמר גרטנר\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\obj\Debug\Host.csproj.CopyComplete
+H:\תכנות שנה א תשפג\תלמידות\תמר גרטנר\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\obj\Debug\Host.exe
+H:\תכנות שנה א תשפג\תלמידות\תמר גרטנר\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\obj\Debug\Host.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר גרטנר\על כל רגע ורגע\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\Host.exe.config
+H:\תכנות שנה א תשפג\תלמידות\תמר גרטנר\על כל רגע ורגע\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\Host.exe
+H:\תכנות שנה א תשפג\תלמידות\תמר גרטנר\על כל רגע ורגע\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\Host.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר גרטנר\על כל רגע ורגע\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\Server.dll
+H:\תכנות שנה א תשפג\תלמידות\תמר גרטנר\על כל רגע ורגע\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\Model.dll
+H:\תכנות שנה א תשפג\תלמידות\תמר גרטנר\על כל רגע ורגע\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\ViewModel.dll
+H:\תכנות שנה א תשפג\תלמידות\תמר גרטנר\על כל רגע ורגע\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\Server.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר גרטנר\על כל רגע ורגע\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\Model.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר גרטנר\על כל רגע ורגע\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\ViewModel.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר גרטנר\על כל רגע ורגע\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+H:\תכנות שנה א תשפג\תלמידות\תמר גרטנר\על כל רגע ורגע\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\obj\Debug\Host.csproj.SuggestedBindingRedirects.cache
+H:\תכנות שנה א תשפג\תלמידות\תמר גרטנר\על כל רגע ורגע\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+H:\תכנות שנה א תשפג\תלמידות\תמר גרטנר\על כל רגע ורגע\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\obj\Debug\Host.csproj.CopyComplete
+H:\תכנות שנה א תשפג\תלמידות\תמר גרטנר\על כל רגע ורגע\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\obj\Debug\Host.exe
+H:\תכנות שנה א תשפג\תלמידות\תמר גרטנר\על כל רגע ורגע\מתוקן\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\obj\Debug\Host.pdb
+C:\Users\The user\Desktop\הפרוייקט המעודכן7\הפרוייקט המעודכן5\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\Host.exe.config
+C:\Users\The user\Desktop\הפרוייקט המעודכן7\הפרוייקט המעודכן5\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\Host.exe
+C:\Users\The user\Desktop\הפרוייקט המעודכן7\הפרוייקט המעודכן5\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\Host.pdb
+C:\Users\The user\Desktop\הפרוייקט המעודכן7\הפרוייקט המעודכן5\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\Server.dll
+C:\Users\The user\Desktop\הפרוייקט המעודכן7\הפרוייקט המעודכן5\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\Model.dll
+C:\Users\The user\Desktop\הפרוייקט המעודכן7\הפרוייקט המעודכן5\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\ViewModel.dll
+C:\Users\The user\Desktop\הפרוייקט המעודכן7\הפרוייקט המעודכן5\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\Server.pdb
+C:\Users\The user\Desktop\הפרוייקט המעודכן7\הפרוייקט המעודכן5\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\Model.pdb
+C:\Users\The user\Desktop\הפרוייקט המעודכן7\הפרוייקט המעודכן5\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\bin\Debug\ViewModel.pdb
+C:\Users\The user\Desktop\הפרוייקט המעודכן7\הפרוייקט המעודכן5\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\הפרוייקט המעודכן7\הפרוייקט המעודכן5\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\obj\Debug\Host.csproj.SuggestedBindingRedirects.cache
+C:\Users\The user\Desktop\הפרוייקט המעודכן7\הפרוייקט המעודכן5\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\הפרוייקט המעודכן7\הפרוייקט המעודכן5\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\obj\Debug\Host.csproj.CopyComplete
+C:\Users\The user\Desktop\הפרוייקט המעודכן7\הפרוייקט המעודכן5\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\obj\Debug\Host.exe
+C:\Users\The user\Desktop\הפרוייקט המעודכן7\הפרוייקט המעודכן5\כמעט כמעט להגשה\‏‏פרוייקט שרת לקוח - עותק\Server\Host\obj\Debug\Host.pdb
+C:\Users\The user\Desktop\עם בדיקות תקינות\Server\Host\bin\Debug\Host.exe.config
+C:\Users\The user\Desktop\עם בדיקות תקינות\Server\Host\bin\Debug\Host.exe
+C:\Users\The user\Desktop\עם בדיקות תקינות\Server\Host\bin\Debug\Host.pdb
+C:\Users\The user\Desktop\עם בדיקות תקינות\Server\Host\bin\Debug\Server.dll
+C:\Users\The user\Desktop\עם בדיקות תקינות\Server\Host\bin\Debug\Model.dll
+C:\Users\The user\Desktop\עם בדיקות תקינות\Server\Host\bin\Debug\ViewModel.dll
+C:\Users\The user\Desktop\עם בדיקות תקינות\Server\Host\bin\Debug\Server.pdb
+C:\Users\The user\Desktop\עם בדיקות תקינות\Server\Host\bin\Debug\Model.pdb
+C:\Users\The user\Desktop\עם בדיקות תקינות\Server\Host\bin\Debug\ViewModel.pdb
+C:\Users\The user\Desktop\עם בדיקות תקינות\Server\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\עם בדיקות תקינות\Server\Host\obj\Debug\Host.csproj.SuggestedBindingRedirects.cache
+C:\Users\The user\Desktop\עם בדיקות תקינות\Server\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\עם בדיקות תקינות\Server\Host\obj\Debug\Host.csproj.CopyComplete
+C:\Users\The user\Desktop\עם בדיקות תקינות\Server\Host\obj\Debug\Host.exe
+C:\Users\The user\Desktop\עם בדיקות תקינות\Server\Host\obj\Debug\Host.pdb
+D:\עם בדיקות תקינות\Server\Host\bin\Debug\Host.exe.config
+D:\עם בדיקות תקינות\Server\Host\bin\Debug\Host.exe
+D:\עם בדיקות תקינות\Server\Host\bin\Debug\Host.pdb
+D:\עם בדיקות תקינות\Server\Host\bin\Debug\Server.dll
+D:\עם בדיקות תקינות\Server\Host\bin\Debug\Model.dll
+D:\עם בדיקות תקינות\Server\Host\bin\Debug\ViewModel.dll
+D:\עם בדיקות תקינות\Server\Host\bin\Debug\Server.pdb
+D:\עם בדיקות תקינות\Server\Host\bin\Debug\Model.pdb
+D:\עם בדיקות תקינות\Server\Host\bin\Debug\ViewModel.pdb
+D:\עם בדיקות תקינות\Server\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+D:\עם בדיקות תקינות\Server\Host\obj\Debug\Host.csproj.SuggestedBindingRedirects.cache
+D:\עם בדיקות תקינות\Server\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+D:\עם בדיקות תקינות\Server\Host\obj\Debug\Host.csproj.CopyComplete
+D:\עם בדיקות תקינות\Server\Host\obj\Debug\Host.exe
+D:\עם בדיקות תקינות\Server\Host\obj\Debug\Host.pdb
+H:\AAAA למורה המניק מתמר ותמר\מעודכן מתמר גרטנר\Server\Host\bin\Debug\Host.exe.config
+H:\AAAA למורה המניק מתמר ותמר\מעודכן מתמר גרטנר\Server\Host\bin\Debug\Host.exe
+H:\AAAA למורה המניק מתמר ותמר\מעודכן מתמר גרטנר\Server\Host\bin\Debug\Host.pdb
+H:\AAAA למורה המניק מתמר ותמר\מעודכן מתמר גרטנר\Server\Host\bin\Debug\Server.dll
+H:\AAAA למורה המניק מתמר ותמר\מעודכן מתמר גרטנר\Server\Host\bin\Debug\Model.dll
+H:\AAAA למורה המניק מתמר ותמר\מעודכן מתמר גרטנר\Server\Host\bin\Debug\ViewModel.dll
+H:\AAAA למורה המניק מתמר ותמר\מעודכן מתמר גרטנר\Server\Host\bin\Debug\Server.pdb
+H:\AAAA למורה המניק מתמר ותמר\מעודכן מתמר גרטנר\Server\Host\bin\Debug\Model.pdb
+H:\AAAA למורה המניק מתמר ותמר\מעודכן מתמר גרטנר\Server\Host\bin\Debug\ViewModel.pdb
+H:\AAAA למורה המניק מתמר ותמר\מעודכן מתמר גרטנר\Server\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+H:\AAAA למורה המניק מתמר ותמר\מעודכן מתמר גרטנר\Server\Host\obj\Debug\Host.csproj.SuggestedBindingRedirects.cache
+H:\AAAA למורה המניק מתמר ותמר\מעודכן מתמר גרטנר\Server\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+H:\AAAA למורה המניק מתמר ותמר\מעודכן מתמר גרטנר\Server\Host\obj\Debug\Host.csproj.CopyComplete
+H:\AAAA למורה המניק מתמר ותמר\מעודכן מתמר גרטנר\Server\Host\obj\Debug\Host.exe
+H:\AAAA למורה המניק מתמר ותמר\מעודכן מתמר גרטנר\Server\Host\obj\Debug\Host.pdb
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Host\bin\Debug\Host.exe.config
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Host\bin\Debug\Host.exe
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Host\bin\Debug\Host.pdb
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Host\bin\Debug\Server.dll
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Host\bin\Debug\Model.dll
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Host\bin\Debug\ViewModel.dll
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Host\bin\Debug\Server.pdb
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Host\bin\Debug\Model.pdb
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Host\bin\Debug\ViewModel.pdb
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Host\obj\Debug\Host.csproj.SuggestedBindingRedirects.cache
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Host\obj\Debug\Host.csproj.CopyComplete
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Host\obj\Debug\Host.exe
+C:\Users\The user\Desktop\מעודכן תמר גרטנר\Server\Host\obj\Debug\Host.pdb
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Host\bin\Debug\Server.dll
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Host\bin\Debug\Model.dll
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Host\bin\Debug\ViewModel.dll
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Host\bin\Debug\Server.pdb
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Host\bin\Debug\Model.pdb
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Host\bin\Debug\ViewModel.pdb
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Host\obj\Debug\Host.csproj.SuggestedBindingRedirects.cache
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Host\obj\Debug\Host.exe
+C:\Users\The user\Desktop\‏‏מעודכן תמר גרטנר - עותק\Server\Host\obj\Debug\Host.pdb
+C:\Users\The user\Desktop\להגשה\Server\Host\bin\Debug\Server.dll
+C:\Users\The user\Desktop\להגשה\Server\Host\bin\Debug\Model.dll
+C:\Users\The user\Desktop\להגשה\Server\Host\bin\Debug\ViewModel.dll
+C:\Users\The user\Desktop\להגשה\Server\Host\bin\Debug\Server.pdb
+C:\Users\The user\Desktop\להגשה\Server\Host\bin\Debug\Model.pdb
+C:\Users\The user\Desktop\להגשה\Server\Host\bin\Debug\ViewModel.pdb
+C:\Users\The user\Desktop\להגשה\Server\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\להגשה\Server\Host\obj\Debug\Host.csproj.SuggestedBindingRedirects.cache
+C:\Users\The user\Desktop\להגשה\Server\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\להגשה\Server\Host\obj\Debug\Host.exe
+C:\Users\The user\Desktop\להגשה\Server\Host\obj\Debug\Host.pdb
+C:\Users\The user\Desktop\להגשה\Server\Host\bin\Debug\Host.exe.config
+C:\Users\The user\Desktop\להגשה\Server\Host\bin\Debug\Host.exe
+C:\Users\The user\Desktop\להגשה\Server\Host\bin\Debug\Host.pdb
+C:\Users\The user\Desktop\להגשה\Server\Host\obj\Debug\Host.csproj.CopyComplete
