@@ -31,12 +31,12 @@ namespace PRO
 
         }
 
-        private void textBox3_TextChanged(object sender, EventArgs e)//הכנסת שם עיר
+        private void textBox3_TextChanged(object sender, EventArgs e)
         {
             label11.Visible = false;
         }
 
-        private void button4_Click(object sender, EventArgs e)//אישור הוספת העיר
+        private void button4_Click(object sender, EventArgs e)
         {
             if (label11.Visible == true)
             {
